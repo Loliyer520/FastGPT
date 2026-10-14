@@ -3,7 +3,7 @@
 EasyGPT 的单卡加速改版：模型结构、参数命名、权重格式与上游完全一致，
 产出 checkpoint 可直接被原版 chat.py 加载，训练耗时大幅降低（3060 实测目标 12h → 5-6h，V100 目标 ~3h）。
 
-上游：[87owo/EasyGPT](https://github.com/87owo/EasyGPT)（注意上游为自定义许可证，本仓库仅供个人学习）
+上游：[87owo/EasyGPT](https://github.com/87owo/EasyGPT)（衍生使用已获原作者许可）
 
 ## Transformer/
 
